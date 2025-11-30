@@ -58,3 +58,13 @@ survivors = collapse_by_radar_band(
 
 print(survivors)
 # → [8, 15, 18]
+
+## 📩 Contact
+
+For collaboration, licensing, or access to ZCM’s system architecture:
+
+**Alex Veldman**   
+GitHub: https://github.com/alexvm35  
+ResearchGate: https://www.researchgate.net/
+
+
