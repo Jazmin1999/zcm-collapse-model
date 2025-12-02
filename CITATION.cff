@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: >
+  If you use the Zeta Collapse Model (ZCM) math library in your work,
+  please cite this software using the information below.
+title: "Zeta Collapse Model (ZCM) – Math Library"
+authors:
+  - given-names: "Alex"
+    family-names: "Veldman"
+version: "1.0.0"
+repository-code: "https://github.com/alexvm35/zcm-collapse-model"
+url: "https://github.com/alexvm35/zcm-collapse-model"
+type: software
